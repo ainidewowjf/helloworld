@@ -3,7 +3,7 @@ package helloword;
 public class HelloWorld {
 	
 	public static void main(String[] args) {
-        System.out.println("Hello World Ëæ±ã¸ÄÒ»¸Ä¡£¡£");
+        System.out.println("Hello World å“ˆå“ˆå“ˆå“ˆã€‚ã€‚ã€‚");
     }
 
 }
